@@ -8,10 +8,10 @@ Carlos's Profile
 
     About Me
 
-            🔭 I’m currently immersed in automation using pipelines and Ansible.</li>
-            🌱 I’m dedicated to mastering C# and PowerShell coding.</li>
-            👯 I’m eager to collaborate on exciting C# development projects.</li>
-            🤔 I'm seeking assistance to further enhance my skills in C# and PowerShell.</li>
+            🔭 I’m currently immersed in automation using pipelines and Ansible.
+            🌱 I’m dedicated to mastering C# and PowerShell coding.
+            👯 I’m eager to collaborate on exciting C# development projects.
+            🤔 I'm seeking assistance to further enhance my skills in C# and PowerShell.
 
 
     💬 Feel free to ask me anything about automation, pipelines, Ansible, or my journey with C# and PowerShell
