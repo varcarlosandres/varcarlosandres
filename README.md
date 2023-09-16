@@ -11,7 +11,7 @@ Carlos's Profile
             🔭 I’m currently immersed in automation using pipelines and Ansible.
             🌱 I’m dedicated to mastering GoLang and PowerShell coding.
             👯 I’m eager to collaborate on exciting GoLang development projects.
-            🤔 I'm seeking assistance to further enhance my skills in C# and PowerShell.
+            🤔 I'm seeking assistance to further enhance my skills in GoLang and PowerShell.
 
 
     💬 Feel free to ask me anything about automation, pipelines, Ansible, or my journey with GoLang and PowerShell
