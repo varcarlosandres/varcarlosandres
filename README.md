@@ -21,3 +21,5 @@ Carlos's Profile
     ⚡ In my free time, I enjoy cycling and devouring horror books!
 
     Let's connect and explore the world of software development together! 🚀
+
+    ----------------------------------------------------------------------------------------------------------
